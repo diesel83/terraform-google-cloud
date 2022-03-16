@@ -1,1 +1,1 @@
-# terraform-google-cloud
+# Repository to store Terraform examples
